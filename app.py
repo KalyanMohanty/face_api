@@ -183,7 +183,7 @@ def face_recognition():
 
 @app.route('/')
 def hello_world():
-    return 'Hello, World!'
+    return 'Face Recognition API'
 
 # Run in HTTP
 # When debug = True, code is reloaded on the fly while saved
