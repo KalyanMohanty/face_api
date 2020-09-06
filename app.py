@@ -44,7 +44,8 @@ known_faces = [('Obama','static/obama.jpg'),
                ('Priti Sahoo','static/priti.png'),
                ('Smruti S Das','static/smruti.png'),
                ('Susantini Behara','static/susantini.png'),
-               ('Prof. Patra','static/principal.jpg')
+               ('Prof. Patra','static/principal.jpg'),
+               ('Girish','static/pan.jpg')
               ]
     
 def face_rec(file):
